@@ -103,13 +103,14 @@ img {
      display: flex;
      justify-content: center;
      text-align: center;
+     align-items: center;
      
      color: #F1FAEE;
      text-shadow: 0px 0px 2px black;
 }
 .avatar{
     width: 200px;
-    height: 300px;
+    height: 250px;
     border-radius: 10px;
     size: cover;
 }
